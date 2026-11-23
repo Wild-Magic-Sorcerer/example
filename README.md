@@ -1,25 +1,26 @@
-# BioLif
+# EXAMPLE
 
-**OpenCV** *based* tool for analyzing images and videos, generated using a confocal microscope.
+*Описание*
 
-### Requiremets:
+### Требования:
 
 ```
-readlif (https://github.com/Arcadia-Science/readlif/tree/master)
+numpy
 
-tkinter
-
-OpenCV-python
+matplotlib
 ```
 
+### Пример использования
 
-### Usage
-
-To run use
+Чтобы запустить, используйте
 ```
-biolif -f <.lif filename> <options>
+example
 ```
 
+### Дополнительно
 
+*Дополнительная информация*
 
-Enjoy.
+### Автор
+
+*Об авторе*
